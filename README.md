@@ -1,2 +1,2 @@
 # Phone-Number-Details
-this will print the service provider name,Timezone and country name
+this will print the Service provider name,Timezone and Country name
